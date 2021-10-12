@@ -23,10 +23,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-First Clip:
+
 ![](https://i.imgur.com/k5HhxoW.gif)
 
+<<<<<<< HEAD
 Second Clip:
+=======
+
+>>>>>>> cde5249d2eec3760444e1f01de9075f200c617fb
 ![](https://i.imgur.com/8dUIIeF.gif)
 
 
