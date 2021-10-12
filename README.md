@@ -27,5 +27,6 @@ First Clip:
 ![](https://i.imgur.com/k5HhxoW.gif)
 
 Second Clip:
-![](https://i.imgur.com/VATSBFa.gif)
+![](https://i.imgur.com/8dUIIeF.gif)
+
 
