@@ -23,6 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+First Clip:
 ![](https://i.imgur.com/k5HhxoW.gif)
+
+Second Clip:
+![](https://i.imgur.com/VATSBFa.gif)
 
